@@ -1,4 +1,4 @@
-## Taha Saadat
+# Taha Saadat
 
 ### Data Analyst • AI Engineer • Business Analyst
 
