@@ -62,7 +62,7 @@ We welcome any cooperation in this regard.
 ### Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/mr-taha-saadat)
-[![GitHub](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/MRTahasaadat)
+[![GitHub](https://img.shields.io/badge/github-block?logo=github)](https://github.com/MRTahasaadat)
 
 
 
