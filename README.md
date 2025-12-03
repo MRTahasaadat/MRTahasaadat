@@ -2,9 +2,9 @@
 
 ### Data Analyst • AI Engineer • Business Analyst
 
-# About Me
+## About Me
 
- Hello! I’m Mr taha Saadat, a results-driven data professional passionate about turning raw data into actionable business insights. I have extensive experience in data-driven decision-making and thrive at the intersection of business and technology. In my work, I apply machine learning and statistical analysis to solve complex problems, uncover trends, and drive strategic solutions for organizations.
+ Hello! I’m taha Saadat, a results-driven data professional passionate about turning raw data into actionable business insights.I am gaining experience and education in data-driven decision-making and thrive at the intersection of business and technology. In my work, I use machine learning and statistical analysis to solve complex problems, uncover trends, and provide strategic solutions for organizations.
 
 I specialize in applied machine learning, data visualization, and end-to-end AI project development. From building predictive models to designing insightful dashboards, I enjoy the entire process of transforming data into value. My background in business analysis helps me align technical solutions with business goals, ensuring that analytics and AI projects deliver real impact. I also have a keen eye for design – I love using tools like Canva, Figma, and Adobe XD to present data in clear, engaging ways for stakeholders.
 
@@ -29,9 +29,9 @@ Given my interest in fundamental and complete education of subjects, I am prepar
 We welcome any cooperation in this regard.
 
 
-Tech Stack
+### Tech Stack:
 
-Languages & AI Libraries:
+### Languages & AI Libraries:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
@@ -46,30 +46,29 @@ Languages & AI Libraries:
 
 
 
-Tools:
+### Tools:
 
 
 
 
-Design:
+### Design:
 
 
 
 
 
 
-GitHub Stats
 
-Contribution Graph
-
-Socials
+### Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/mr-taha-saadat)
-[![GitHub]()]
+[![GitHub](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/MRTahasaadat)
 
 
 
 
-Quote
+### Quote
 
-“The goal is to turn data into information, and information into insight.” – Carly Fiorina
+“The goal is to turn data into information, and information into insight.” 
+
+Carly Fiorina
