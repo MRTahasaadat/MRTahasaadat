@@ -63,7 +63,7 @@ We welcome any cooperation in this regard.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/mr-taha-saadat)
 [![GitHub](https://img.shields.io/badge/github-black?logo=github)](https://github.com/MRTahasaadat)
-[![Static Badge](https://img.shields.io/badge/website)](https://ziraxa.ir/)
+[![Website](https://img.shields.io/badge/website-black?logo=Website)](https://ziraxa.ir/)
 
 
 
