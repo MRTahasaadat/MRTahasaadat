@@ -65,7 +65,7 @@ We welcome any cooperation in this regard.
 [![GitHub](https://img.shields.io/badge/github-black?logo=github)](https://github.com/MRTahasaadat)
 [![GitHub](https://img.shields.io/badge/github-black?logo=github)](https://github.com/ziraxa-ai)
 [![Website](https://img.shields.io/badge/website-blue?logo=Website)](https://ziraxa.ir/)
-[![X.com](https://img.shields.io/badge/X-black?logo=X.com)](https://x.com/Ziraxa_ai?s=09)
+[![X.com](https://img.shields.io/badge/X-black?logo=X.com)](https://x.com/Ziraxa_ai?s=09).
 
 
 
